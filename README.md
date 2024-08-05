@@ -1,2 +1,3 @@
-# Python_Pong
+# Python_Tetris
+Simple Tetris game.
  
